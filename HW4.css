@@ -1,0 +1,12 @@
+h1{color:#000;
+   font-family:inherit;
+   font-size: 150 px; 
+   font-weight: 100;
+    text-align: center;padding-top: 60px;
+    background: url(download-1.jpg); background-repeat: no-repeat; height: 80px; width:auto;background-position: 500px 0px }
+IMG{border-radius: 50%}
+p{font-family: sans-serif;
+font-size: 20px}
+thead{font-size: 25px; color:darkcyan}
+h2{color:#596; font-size: 100 px}
+a {color: black}
